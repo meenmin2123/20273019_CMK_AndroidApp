@@ -28,7 +28,7 @@
 
 
 #'넓이' 버튼 실행</br>
-- 이미지의 넓이와 높이의 크기가 같아 같은 값이 나옵니다.
+- 이미지의 넓이와 높이의 크기가 같아 같은 값이 나옵니다.</br>
 ![image](https://user-images.githubusercontent.com/80881753/136247572-bbd4461f-aaf8-4304-b1f9-15a4fd49ca77.png)
 
 
